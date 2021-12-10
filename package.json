@@ -1,5 +1,5 @@
 {
-  "name": "gdbrowserapi",
+  "name": "gd-browser-api",
   "version": "1.0.0",
   "description": "Get info from GDBrowser's API in a simple way.",
   "main": "index.js",
@@ -14,6 +14,7 @@
   ],
   "author": "JustSofter",
   "license": "ISC",
+  "repository": "github:justsofter/gdbrowserapi",
   "dependencies": {
     "axios": "^0.24.0"
   }
