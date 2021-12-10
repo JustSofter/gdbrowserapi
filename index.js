@@ -11,7 +11,3 @@ const { getProfile } = require('./functions/users/getProfile')
  */
 
  const { getLevel } = require('./functions/levels/getLevel')
-
- getLevel("128").then(res => {
-    console.log(res)
-})
