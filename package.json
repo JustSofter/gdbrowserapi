@@ -1,0 +1,20 @@
+{
+  "name": "gdbrowserapi",
+  "version": "1.0.0",
+  "description": "Get info from GDBrowser's API in a simple way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geometry",
+    "dash",
+    "gd",
+    "gdbrowser"
+  ],
+  "author": "JustSofter",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
