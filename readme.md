@@ -8,7 +8,7 @@ This NPM gets info from the GD Colon's GD Browser API.
 
 With this function, you can get an users profile info.
 ```
-const { getProfile } = require('gdbrowserapi')
+const { getProfile } = require('gd-browser-api')
 GDBrowserAPI.getProfile("RobTop").then(res => {
     console.log(res)
 })
@@ -43,7 +43,7 @@ Returns:
 
 With this function, you can get an level's info.
 ```
-const { getLevel } = require('gdbrowserapi')
+const { getLevel } = require('gd-browser-api')
 GDBrowserAPI.getLevel("128").then(res => {
     console.log(res)
 })
